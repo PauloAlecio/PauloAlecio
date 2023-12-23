@@ -1,4 +1,4 @@
-![PauloAlecio](https://github.com/PauloAlecio/PauloAlecio/blob/main/assets/red-Banner.gif)
+![PauloAlecio](https://github.com/PauloAlecio/PauloAlecio/blob/main/assets/red-Banner-1584px-396px.gif)
 
 <h1 align="center">Olá 👋, Eu sou Paulo Alécio</h1>
 <h3 align="center">Analista de Desenvolvimento de Software</h3>
