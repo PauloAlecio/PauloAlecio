@@ -1,4 +1,5 @@
-[![PauloAlecio]()][1]
+![PauloAlecio](https://github.com/PauloAlecio/PauloAlecio/blob/main/assets/onegithub-Banner.gif)
+
 <h1 align="center">Olá 👋, Eu sou Paulo Alécio</h1>
 <h3 align="center">Analista de Desenvolvimento de Software</h3>
 Sou um Analista de Desenvolvimento de Software com foco em desenvolvimento web e banco de dados, formado em Tecnologia de Banco de Dados com ênfase em Análise e Desenvolvimento de Software.
