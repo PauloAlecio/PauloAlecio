@@ -1,7 +1,7 @@
 ![PauloAlecio](https://github.com/PauloAlecio/PauloAlecio/blob/main/assets/red-Banner-1584px-396px.gif)
 
-<h1 align="center">Olá 👋, Eu sou Paulo Alécio</h1>
-<h3 align="center">Analista de Desenvolvimento de Software</h3>
+<h1 align="center">Olá 👋, Meu nome é Paulo Alécio</h1>
+<h3 align="center">Analista Desenvolvedor de Software</h3>
 Sou um Analista de Desenvolvimento de Software com foco em desenvolvimento web e banco de dados, formado em Tecnologia de Banco de Dados com ênfase em Análise e Desenvolvimento de Software.
 Trabalhei em equipe para desenvolver, manter e melhorar aplicações web focadas em alto desempenho e confiabilidade utilizando Java Web, MySQL e AWS. 
 
