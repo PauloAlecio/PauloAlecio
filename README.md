@@ -2,7 +2,7 @@
 <h1 align="center">Olá 👋, Seja bem vindo (a) </h1>
 
 
-<br clear="both">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloalecio&label=Profile%20views&color=0e75b6&style=flat" alt="pauloalecio" /> </p>
 
 <p align="left">Sou um Analista de Desenvolvimento de Software com foco em desenvolvimento backend e banco de dados, formado em Tecnologia de Banco de Dados com ênfase em Análise e Desenvolvimento de Sistemas.<br><br>Trabalhei com equipes de responsáveis por criar, manter e evoluir aplicações focando em desempenho e confiabilidade utilizando Java com Spring, MySQL, Redis, MongoDB e cloud AWS. <br><br>Meu objetivo é atuar como Arquiteto de Software<br><br> Atualmente estou buscando evoluir meus conhecimentos em Spring Boot, NodeJS, provedores de nuvem como Azure, GCP e AWS.</p>
 
@@ -17,49 +17,65 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="33" alt="java logo"  />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="33" alt="ubuntu logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=aws" height="33" alt="amazonwebservices logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="33" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="33" alt="docker logo"  />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="33" alt="rabbitmq logo"  />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="33" alt="rabbitmq logo"  />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="33" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="33" alt="postgresql logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="33" alt="grafana logo"  />
+  <img src="https://skillicons.dev/icons?i=grafana" height="33" alt="grafana logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=redis" height="33" alt="redis logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="33" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="33" alt="linux logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="33" alt="mysql logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="33" alt="prometheus logo"  />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="33" alt="prometheus logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="33" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="33" alt="spring logo"  />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="33" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="33" alt="postman logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="33" alt="mongodb logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="33" alt="gitlab logo"  />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="33" alt="gitlab logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="33" alt="jira logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="33" alt="git logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=maven" height="33" alt="apachemaven logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=hibernate" height="33" alt="hibernate logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="33" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="33" alt="google cloud logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="33" alt="azure cloud logo"  />
   <img width="14" />
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="33" alt="kubernetes logo"  />
   <img width="14" />
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=jest" height="33" alt="jest logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="33" alt="jenkins logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="33" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="33" alt="nestjs logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=ts" height="33" alt="typescript logo"  />
+  <img width="14" />
+  
+<!--   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> -->
+<!--  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  -->
 </div>
 
 ###
