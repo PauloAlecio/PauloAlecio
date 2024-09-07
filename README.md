@@ -4,14 +4,14 @@
 
 <br clear="both">
 
-<p align="left">Sou um Analista de Desenvolvimento de Software com foco em desenvolvimento web e banco de dados, formado em Tecnologia de Banco de Dados com ênfase em Análise e Desenvolvimento de Software.<br><br>Trabalhei em equipe para desenvolver, manter e melhorar aplicações da web focadas em alto desempenho e confiabilidade utilizando Java Web, MySQL e AWS. <br><br>Tenho o objetivo de me tornar Engenheiro de Software, para participar de projetos de software de grande porte e complexidade, com foco em aplicações distribuídas.<br><br> Atualmente estou evoluindo meus conhecimentos em Spring Boot, Angular Framework, GCP e AWS</p>
+<p align="left">Sou um Analista de Desenvolvimento de Software com foco em desenvolvimento backend e banco de dados, formado em Tecnologia de Banco de Dados com ênfase em Análise e Desenvolvimento de Sistemas.<br><br>Trabalhei com equipes de responsáveis por criar, manter e evoluir aplicações focando em desempenho e confiabilidade utilizando Java com Spring, MySQL, Redis, MongoDB e cloud AWS. <br><br>Meu objetivo é atuar como Arquiteto de Software<br><br> Atualmente estou buscando evoluir meus conhecimentos em Spring Boot, NodeJS, provedores de nuvem como Azure, GCP e AWS.</p>
 
 ###
 
 <h2 align="left">Tecnologias utilizadas: </h2>
 
 ###
-
+<p align="left">Alguns dos produtos de tecnologia com os quais trabalho e tive oportunidade de trabalhar.</p>
 <br clear="both">
 
 <div align="center">
