@@ -13,9 +13,7 @@
   Atualmente estou buscando evoluir meus conhecimentos em Spring Boot, NodeJS, provedores de nuvem como Azure, GCP e AWS.
 </p>
 
-###
-
-<h2 align="left">Tecnologias utilizadas: </h2>
+## Tecnologias utilizadas:
 
 ###
 <p align="left">Alguns dos produtos de tecnologia com os quais trabalho e tive oportunidade de trabalhar.</p>
@@ -83,8 +81,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9a040a)](https://www.linkedin.com/in/paulo-alécio-da-silva/)
 
 
-##
-### Estatísticas: 
+## Estatísticas: 
 
 ###
 
