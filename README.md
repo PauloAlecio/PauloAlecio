@@ -84,12 +84,12 @@
 <div align="left">
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=PauloAlecio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=pt-BR&hide_border=false&custom_title=PAULO%20ALÉCIO%20DA%20SILVA" width="400" height="200" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=PauloAlecio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=pt-BR&hide_border=false&custom_title=PAULO%20ALÉCIO%20DA%20SILVA" width="450" height="200" alt="stats graph"  />
 
-<img src="https://streak-stats.demolab.com?user=PauloAlecio&locale=pt-br&hide_title=false&mode=weekly&theme=shadow_red&hide_border=false&border_radius=5&custom_title=PAULO%20ALECIO%20DA%20SILVA" width="400" height="200" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=PauloAlecio&locale=pt-br&hide_title=false&mode=weekly&theme=shadow_red&hide_border=false&border_radius=5&custom_title=PAULO%20ALECIO%20DA%20SILVA" width="450" height="200" alt="streak graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PauloAlecio&locale=pt-br&hide_title=false&layout=compact&card_width=480&langs_count=8&theme=shadow_red&hide_border=false&custom_title=Linguagens%20mais%20usadas" 
-   width="400" height="200" alt="languages graph"  />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloAlecio&theme=elegant&area=true&hide_border=false&hide_title=false&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&radius=7" width="500" height="200" alt="activity-graph graph"  />
+   width="450" height="200" alt="languages graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloAlecio&theme=elegant&area=true&hide_border=false&hide_title=false&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&radius=7" width="450" height="200" alt="activity-graph graph"  />
 
 ##
   
