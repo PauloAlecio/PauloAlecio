@@ -2,7 +2,7 @@
 <h1 align="center">Olá 👋, Seja bem vindo (a) </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloalecio&label=Profile%20views&color=0e75b6&style=flat" alt="pauloalecio" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloalecio&label=Profile%20views&color=9a040a&style=flat" alt="pauloalecio" /> </p>
 
 <p align="left">Sou um Analista de Desenvolvimento de Software com foco em desenvolvimento backend e banco de dados, formado em Tecnologia de Banco de Dados com ênfase em Análise e Desenvolvimento de Sistemas.<br><br>Trabalhei com equipes de responsáveis por criar, manter e evoluir aplicações focando em desempenho e confiabilidade utilizando Java com Spring, MySQL, Redis, MongoDB e cloud AWS. <br><br>Meu objetivo é atuar como Arquiteto de Software<br><br> Atualmente estou buscando evoluir meus conhecimentos em Spring Boot, NodeJS, provedores de nuvem como Azure, GCP e AWS.</p>
 
