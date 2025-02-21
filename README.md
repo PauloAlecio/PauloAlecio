@@ -6,7 +6,7 @@
 
 <p align="left">Sou um Analista de Desenvolvimento de Software com foco em desenvolvimento backend e banco de dados, formado em Tecnologia de Banco de Dados com ênfase em Análise e Desenvolvimento de Sistemas. 
   <br>
-  Trabalhei com equipes de responsáveis por criar, manter e evoluir aplicações focando em desempenho e confiabilidade utilizando Java com Spring, MySQL, Redis, MongoDB e cloud AWS. 
+  Trabalhei com equipes responsáveis por criar, manter e evoluir aplicações focadas em desempenho e confiabilidade utilizando Java com Spring, MySQL, Redis, MongoDB e cloud AWS. 
   <br>
   Meu objetivo é atuar como Arquiteto de Software.
   <br>
