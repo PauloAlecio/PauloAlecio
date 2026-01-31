@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloalecio&label=Visualizações%20de%20perfil&color=9a040a&style=flat" alt="pauloalecio" /> </p>
 
-<p align="left">Sou um Analista de Desenvolvimento de Software com foco em desenvolvimento backend e banco de dados, formado em Tecnologia de Banco de Dados com ênfase em Análise e Desenvolvimento de Sistemas. 
+<p align="left">Analista de Desenvolvimento de Software com foco em desenvolvimento backend e banco de dados, formado em Tecnologia de Banco de Dados com ênfase em Análise e Desenvolvimento de Sistemas. 
   <br>
   Trabalhei com equipes responsáveis por criar, manter e evoluir aplicações focadas em desempenho e confiabilidade utilizando Java com Spring, MySQL, Redis, MongoDB e cloud AWS. 
   <br>
