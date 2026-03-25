@@ -95,7 +95,6 @@
    width="400" height="200" alt="languages graph"  />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloAlecio&theme=elegant&area=true&hide_border=false&hide_title=false&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&radius=7" width="400" height="200" alt="activity-graph graph"  />
 
-##
   
 <!-- <img src="https://github-profile-trophy.vercel.app?username=PauloAlecio&theme=darkhub&column=5&margin-w=84&margin-h=7&row=1&no-frame=true&no-bg=true" height="150" alt="trophy graph"  /> -->
 
