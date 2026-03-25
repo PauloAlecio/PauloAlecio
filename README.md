@@ -78,7 +78,7 @@
 
 ## Conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9a040a)](https://www.linkedin.com/in/paulo-alécio-da-silva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9a040a)](https://www.linkedin.com/in/paulo-alecio-da-silva/)
 
 
 ## Estatísticas: 
