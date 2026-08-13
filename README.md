@@ -2,7 +2,7 @@
 <h1 align="center">Olá 👋, Seja bem vindo (a) </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloalecio&label=Visualizações%20de%20perfil&color=9a040a&style=flat" alt="pauloalecio" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloalecio&label=Visualizações%20de%20perfil&color=9a040a&style=flat" alt="pauloalecio" /> </p> -->
 
 <p align="left">Analista de Sistemas com foco em desenvolvimento backend e banco de dados, formado em Tecnologia de Banco de Dados com ênfase em Análise e Desenvolvimento de Sistemas. 
   <br>
